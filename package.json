@@ -1,0 +1,14 @@
+{
+  "name": "animation-tests",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kufuntu/animation-tests.git"
+  },
+  "author": "Andre Steudel <kontakt@andre-steudel.de>",
+  "dependencies": {
+    "material-design-lite": "^1.3.0"
+  },
+  "devDependencies": {}
+}
